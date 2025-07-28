@@ -61,6 +61,10 @@ Incluye consultas como:
 - Dueños con cantidad de mascotas.
 - Porcentaje de mascotas vacunadas y no vacunadas.
 
+A continuación, un video explicativo con las consultas que se realizaron en este proyecto:
+
+https://youtu.be/7RUO_0AuMWg
+
 ---
 
 ## 🧠 Tecnologías Usadas
